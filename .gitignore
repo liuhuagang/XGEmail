@@ -1,0 +1,12 @@
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+PackageTest/
+hooks/
+lfs/
+.vsconfig
+*.sln
